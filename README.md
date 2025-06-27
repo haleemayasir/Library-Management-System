@@ -1,8 +1,8 @@
-#Library Management System (C++)
+# Library Management System (C++)
 
 A console-based Library Management System built in C++ using core data structures like Binary Search Tree, Hash Table, Queue, and Stack. This system allows user registration, login, book management (add/search/issue/return), and undo operations.
 
-##Features
+## Features
 
 - Add, display, and search books by title
 - User registration and login system
@@ -14,7 +14,7 @@ A console-based Library Management System built in C++ using core data structure
   - Queue (Issued book handling)
   - Stack (Undo actions)
 
-##Technologies
+## Technologies
 
 - C++ (OOP + STL)
 - Custom implementations for:
